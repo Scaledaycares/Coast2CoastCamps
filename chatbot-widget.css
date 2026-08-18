@@ -403,7 +403,7 @@ a:hover {
    #chat-widget{
     position:fixed;
     bottom:50px;
-    transform:scale(0.8);
+    width:300px;
   }
  #chatbot-toggle{
     right:0px;
